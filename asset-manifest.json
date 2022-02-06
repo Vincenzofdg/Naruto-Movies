@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Naruto-Movies/static/css/main.073c9b0a.css",
-    "main.js": "/Naruto-Movies/static/js/main.08efc772.js",
-    "static/js/787.eef458ac.chunk.js": "/Naruto-Movies/static/js/787.eef458ac.chunk.js",
-    "static/media/logo.svg": "/Naruto-Movies/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Naruto-Movies/static/css/main.b189bc2b.css",
+    "main.js": "/Naruto-Movies/static/js/main.742edcfa.js",
+    "static/media/Background.png": "/Naruto-Movies/static/media/Background.31ba868032e7ad89010a.png",
+    "static/media/Header-background.jpg": "/Naruto-Movies/static/media/Header-background.a7df125f3a0ec4d64b62.jpg",
     "index.html": "/Naruto-Movies/index.html",
-    "main.073c9b0a.css.map": "/Naruto-Movies/static/css/main.073c9b0a.css.map",
-    "main.08efc772.js.map": "/Naruto-Movies/static/js/main.08efc772.js.map",
-    "787.eef458ac.chunk.js.map": "/Naruto-Movies/static/js/787.eef458ac.chunk.js.map"
+    "main.b189bc2b.css.map": "/Naruto-Movies/static/css/main.b189bc2b.css.map",
+    "main.742edcfa.js.map": "/Naruto-Movies/static/js/main.742edcfa.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.08efc772.js"
+    "static/css/main.b189bc2b.css",
+    "static/js/main.742edcfa.js"
   ]
 }
