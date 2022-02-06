@@ -2,6 +2,8 @@
 
 `github/workflows/build.yml`
 
+**Add on package.json:** `"homepage": "Naruto-Movies/",`
+
 ```
 name: deploy
 
