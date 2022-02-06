@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Naruto-Movies/static/css/main.b189bc2b.css",
-    "main.js": "/Naruto-Movies/static/js/main.742edcfa.js",
+    "main.js": "/Naruto-Movies/static/js/main.333917b9.js",
     "static/media/Background.png": "/Naruto-Movies/static/media/Background.31ba868032e7ad89010a.png",
     "static/media/Header-background.jpg": "/Naruto-Movies/static/media/Header-background.a7df125f3a0ec4d64b62.jpg",
     "index.html": "/Naruto-Movies/index.html",
     "main.b189bc2b.css.map": "/Naruto-Movies/static/css/main.b189bc2b.css.map",
-    "main.742edcfa.js.map": "/Naruto-Movies/static/js/main.742edcfa.js.map"
+    "main.333917b9.js.map": "/Naruto-Movies/static/js/main.333917b9.js.map"
   },
   "entrypoints": [
     "static/css/main.b189bc2b.css",
-    "static/js/main.742edcfa.js"
+    "static/js/main.333917b9.js"
   ]
 }
