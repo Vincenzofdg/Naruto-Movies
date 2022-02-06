@@ -5,7 +5,7 @@ body {
 }
 
 .movie-card-header {
-  background-image: url(/src/Header-background.jpg);
+  background-image: url(/src/images/Header-background.jpg);
   background-position: center;
   align-items: center;
   display: flex;
@@ -22,7 +22,7 @@ body {
 }
 
 .movie-list {
-  background-image: url(/src/Background.png);
+  background-image: url(/src/images/Background.png);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
