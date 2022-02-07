@@ -1,15 +1,25 @@
 {
   "files": {
-    "main.css": "/Naruto-Movies/static/css/main.b189bc2b.css",
-    "main.js": "/Naruto-Movies/static/js/main.333917b9.js",
+    "main.css": "/Naruto-Movies/static/css/main.0124c9c2.css",
+    "main.js": "/Naruto-Movies/static/js/main.e49411b3.js",
     "static/media/Background.png": "/Naruto-Movies/static/media/Background.31ba868032e7ad89010a.png",
-    "static/media/Header-background.jpg": "/Naruto-Movies/static/media/Header-background.a7df125f3a0ec4d64b62.jpg",
+    "static/media/Ninja_Clash_In_The_Land_Of_Snow.png": "/Naruto-Movies/static/media/Ninja_Clash_In_The_Land_Of_Snow.56b8b5b83008b86e48a8.png",
+    "static/media/Guardians_Of_The_Crescent_Moon_Kingdom.png": "/Naruto-Movies/static/media/Guardians_Of_The_Crescent_Moon_Kingdom.83f3e914f1635e305c3c.png",
+    "static/media/Blood_Prison.png": "/Naruto-Movies/static/media/Blood_Prison.0a3da36ca990e1b69ef5.png",
+    "static/media/The_Will_Of_Fire.png": "/Naruto-Movies/static/media/The_Will_Of_Fire.2b7b0dbedb8ef2925c62.png",
+    "static/media/Boruto_Naruto_The_Movie.jpg": "/Naruto-Movies/static/media/Boruto_Naruto_The_Movie.e61029112e949411089c.jpg",
+    "static/media/The_Lost_Tower.jpg": "/Naruto-Movies/static/media/The_Lost_Tower.ce529244858838acecab.jpg",
+    "static/media/Road_To_Ninja.jpg": "/Naruto-Movies/static/media/Road_To_Ninja.12efc365754a2161400a.jpg",
+    "static/media/The_Last.jpg": "/Naruto-Movies/static/media/The_Last.9fa8425b76c920d952c5.jpg",
+    "static/media/Naruto_Shippuden_The_Movie.jpg": "/Naruto-Movies/static/media/Naruto_Shippuden_The_Movie.12705ac892a601492210.jpg",
+    "static/media/Legend_Of_The_Stone_Of_Gelel.jpg": "/Naruto-Movies/static/media/Legend_Of_The_Stone_Of_Gelel.49586e07828fa39ce9ef.jpg",
+    "static/media/Bonds.jpg": "/Naruto-Movies/static/media/Bonds.51d7e9b64c0a52d3b8de.jpg",
     "index.html": "/Naruto-Movies/index.html",
-    "main.b189bc2b.css.map": "/Naruto-Movies/static/css/main.b189bc2b.css.map",
-    "main.333917b9.js.map": "/Naruto-Movies/static/js/main.333917b9.js.map"
+    "main.0124c9c2.css.map": "/Naruto-Movies/static/css/main.0124c9c2.css.map",
+    "main.e49411b3.js.map": "/Naruto-Movies/static/js/main.e49411b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.b189bc2b.css",
-    "static/js/main.333917b9.js"
+    "static/css/main.0124c9c2.css",
+    "static/js/main.e49411b3.js"
   ]
 }
