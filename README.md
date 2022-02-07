@@ -1,6 +1,17 @@
-**Deploy File:**
+## Knowledge Required:
 
-`github/workflows/build.yml`
+ - DOM and Selector;
+ - Working with Elements;
+ - Events;
+ - Web Storage.
+
+## Preview:
+
+![image](preview.gif)
+
+## Deploy
+
+**File:** `github/workflows/build.yml`
 
 **Add on package.json:** `"homepage": "Naruto-Movies/",`
 
